@@ -1,4 +1,4 @@
-# Credit Risk Tutorial
+## Credit Risk Tutorial
 
 This folder contains tutorials and notebooks related to credit risk analysis, including:
 
